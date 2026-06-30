@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-06-29 17:44:33",
+    "event_description": "AI for Sustainable Cities \u2014 a conference bringing together urban planners and AI researchers",
+    "interests": "climate change, urban planning, machine learning",
+    "themes": [
+      "Networking"
+    ],
+    "starters": [
+      "What aspect of Networking interests you most?",
+      "How long have you been working in climate change?",
+      "What are you hoping to gain from this event?"
+    ]
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-06-29 17:47:02",
+    "event_description": "Cybersecurity and Data Privacy Forum",
+    "interests": "ai,data engineering machine learning",
+    "themes": [
+      "Networking"
+    ],
+    "starters": [
+      "What aspect of Networking interests you most?",
+      "How long have you been working in ai?",
+      "What are you hoping to gain from this event?"
+    ]
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-06-29 17:56:01",
+    "event_description": "Healthcare Innovation Summit 2026",
+    "interests": "ai ,big data analytics , ml , data science",
+    "themes": [
+      "Networking"
+    ],
+    "starters": [
+      "What aspect of Networking interests you most?",
+      "How long have you been working in ai ?",
+      "What are you hoping to gain from this event?"
+    ]
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-06-29 18:49:04",
+    "event_description": "Healthcare Innovation Summit 2026",
+    "interests": "ai ,big data analytics , ml , data science, poetry",
+    "themes": [
+      "Networking"
+    ],
+    "starters": [
+      "What aspect of Networking interests you most?",
+      "How long have you been working in ai ?",
+      "What are you hoping to gain from this event?"
+    ]
+  }
+]
