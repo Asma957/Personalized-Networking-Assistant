@@ -1,47 +1,52 @@
 # Project Demonstration
 
 ## Demo Video
-[Demo video link will be added after recording]
+[To be added after recording]
 
 ## Application Screenshots
 
+### Main Interface
+- 3 tabs: Generate Starters, Fact Check, History
+- Clean and interactive UI
+
 ### Tab 1: Generate Conversation Starters
-- User enters event description and interests
-- AI generates 3 personalized conversation starters
-- User can provide thumbs up/down feedback
+- Enter event description
+- Enter your interests
+- Click Generate button
+- Get 3 AI-powered starters
+- Give thumbs up/down feedback
 
 ### Tab 2: Fact Check
-- User enters any topic
-- Wikipedia API returns summary and source
-- Related topics also displayed
+- Enter any topic
+- Get Wikipedia summary
+- View source URL
+- See related topics
 
 ### Tab 3: Conversation History
-- All past sessions displayed
-- Timestamps and starters visible
-- Expandable session cards
+- Click Load History
+- View all past sessions
+- See timestamps and starters
 
-## How to Run the Application
+## How to Run
 
 ### Prerequisites
 - Python 3.10+
-- Google Gemini API Key
+- Google Gemini API Key (from aistudio.google.com)
 
 ### Steps
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Add API key in `.env` file
-4. Run backend: `cd backend && python -m uvicorn main:app --reload --port 8000`
-5. Run frontend: `streamlit run frontend.py`
-6. Open browser: `http://localhost:8501`
+1. Clone repository
+2. Create virtual environment: `python -m venv venv`
+3. Activate: `venv\Scripts\activate`
+4. Install: `pip install -r requirements.txt`
+5. Create `.env` file: `GEMINI_API_KEY=your_key`
+6. Run backend: `cd backend && python -m uvicorn main:app --reload --port 8000`
+7. Run frontend: `streamlit run frontend.py`
+8. Open: `http://localhost:8501`
 
-## Live Demo
-- Backend API: `http://127.0.0.1:8000`
-- Frontend App: `http://localhost:8501`
-- API Docs: `http://127.0.0.1:8000/docs`
+## Test Results
+- Total Tests: 15
+- Passed: 15 ✅
+- Failed: 0
 
-## Key Features Demonstrated
-1. ✅ AI conversation starter generation
-2. ✅ Event theme analysis
-3. ✅ Wikipedia fact verification
-4. ✅ Conversation history
-5. ✅ User feedback system
+## GitHub Repository
+https://github.com/Asma957/Personalized-Networking-Assistant
