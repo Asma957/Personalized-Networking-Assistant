@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🤝 Personalized Networking Assistant
 
 An AI-powered web application that generates smart, tailored conversation starters for professional and social networking events.
@@ -114,6 +114,6 @@ pytest tests/ -v
 
 ## 📄 License
 MIT License
-=======
+
 # Personalized-Networking-Assistant
->>>>>>> cf4ac85ec16080d8f72bad7d8e687b08349dfd02
+
