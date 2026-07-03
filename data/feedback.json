@@ -1,1 +1,14 @@
-[] 
+[
+  {
+    "entry_id": 1,
+    "starter_index": 1,
+    "feedback": "thumbs_up",
+    "timestamp": "2026-06-30 06:46:05"
+  },
+  {
+    "entry_id": 1,
+    "starter_index": 2,
+    "feedback": "thumbs_down",
+    "timestamp": "2026-06-30 06:46:06"
+  }
+]
