@@ -3,7 +3,6 @@
 ## Demo Video
 [To be added after recording]
 
-## Application Screenshots
 
 ### Main Interface
 - 3 tabs: Generate Starters, Fact Check, History
