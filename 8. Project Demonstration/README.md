@@ -1,7 +1,7 @@
 # Project Demonstration
 
 ## Demo Video
-[To be added after recording]
+https://drive.google.com/file/d/1LVHr5z3xhWW4ouhgW54iY-hQW0Hvz25B/view?usp=sharing
 
 
 ### Main Interface
