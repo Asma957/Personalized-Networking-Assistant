@@ -111,8 +111,10 @@ pytest tests/ -v
 
 
 🎥 Project Videos
-📁 Complete Project Videos
-All project demonstration videos are available in the Google Drive folder below:
+
+📁 Complete Project Video
+
+All project demonstration video is available in the Google Drive folder below:
 
 🔗https://drive.google.com/file/d/1LVHr5z3xhWW4ouhgW54iY-hQW0Hvz25B/view
 
