@@ -118,7 +118,6 @@ All project demonstration video is available in the Google Drive folder below:
 
 🔗https://drive.google.com/file/d/1LVHr5z3xhWW4ouhgW54iY-hQW0Hvz25B/view
 
-https://docs.google.com/document/d/1AMbR2vgzZDGW0BIO8b6jJ6ESRdFydOU_zt_N_wIrAP0/edit?usp=sharing
 
 
 ## 👥 Team Members
